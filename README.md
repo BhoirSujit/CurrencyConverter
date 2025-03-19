@@ -4,8 +4,8 @@
 
 
 ## Steps to execute
-$git clone "https://github.com/BhoirSujit/CurrencyConverter.git"
+`git clone "https://github.com/BhoirSujit/CurrencyConverter.git"`
 
-$gradle clean build 
+`gradle clean build `
 
-$java -jar .\app\build\libs\app.jar
+`java -jar .\app\build\libs\app.jar`
